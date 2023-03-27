@@ -1,6 +1,6 @@
 [![MasterHead](https://pbs.twimg.com/profile_banners/1147530031956156418/1679843210/1080x360)](https://bshreyank.io)
 <h1 align="center">Hi 👋, I'm Shreyank Bansod</h1>
-<h3 align="center">To utilize my expertise in software engineering to design and develop innovative solutions that address complex business problems while maintaining a focus on quality, scalability, and usability.</h3>
+<h3 align="center">My goal is to utilize my expertise in software engineering to design and develop innovative solutions that address complex business problems while maintaining a focus on quality, scalability, and usability.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **Full Stack Web Development and Java Development.**
