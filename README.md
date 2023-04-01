@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/1147530031956156418/1679843210/1080x360)](https://bshreyank.io)
+[![MasterHead](https://pbs.twimg.com/profile_banners/1147530031956156418/1679908052/1500x500)](https://bshreyank.io)
 <h1 align="center">Hi 👋, I'm Shreyank Bansod</h1>
 <h3 align="center">My goal is to utilize my expertise in software engineering to design and develop innovative solutions that address complex business problems while maintaining a focus on quality, scalability, and usability.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bshreyank&label=Profile%20views&color=0e75b6&style=flat" alt="bshreyank" /> </p>
