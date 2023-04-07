@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bshreyank&label=Profile%20views&color=0e75b6&style=flat" alt="bshreyank" /> </p>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Full Stack Web Development and Java Development.**
+- 🔭 I’m currently working on **Frontend Development and Java Full Stack**
 
-- 🌱 I’m currently learning **Java Full Stack, CRM Tools.**
+- 🌱 I’m currently learning **Java Full Stack**
 
-- 🤝 I’m looking for help with **Machine Learning and Other AI Applications**
+- 🤝 I’m looking for help with **Core Java Concepts**
 
 - 📫 How to reach me **bshreyank@gmail.com**
 
