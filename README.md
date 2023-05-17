@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **Frontend Development and Java Full Stack**
 
-- 🌱 I’m currently learning **Java Full Stack**
-
-- 🤝 I’m looking for help with **Core Java Concepts**
+- 🌱 I’m currently learning **Front-End Web Development**
 
 - 📫 How to reach me **bshreyank@gmail.com**
 
