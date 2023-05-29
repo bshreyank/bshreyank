@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bshreyank&theme=dark" alt="bshreyank" /></p>
 
-![Visitor Count](https://profile-counter.glitch.me/{bshreyank}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{bshreyank}/count.svg -->
 
