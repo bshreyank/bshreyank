@@ -1,9 +1,9 @@
 [![MasterHead](https://pbs.twimg.com/profile_banners/1147530031956156418/1686073675/1500x500)](https://shreyank-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shreyank</h1>
 <h3 align="center">My goal is to utilize my expertise in software engineering to design and develop innovative solutions that address complex business problems while maintaining a focus on quality, scalability, and usability.</h3>
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bshreyank.bshreyank&left_color=red&right_color=green) 
-<!-- RGB colors eg: #595959 needs to be %23595959 in the URL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bshreyank&label=Profile%20views&color=0e75b6&style=flat" alt="bshreyank" /> </p>
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbshreyank"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbshreyank&label=Visitors&labelColor=%2337d67a&countColor=%23ff8a65&labelStyle=upper" /></a>
+
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **Frontend Development and Java Full Stack**
