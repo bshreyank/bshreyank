@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shreyank</h1>
 <h3 align="center">My goal is to utilize my expertise in software engineering to design and develop innovative solutions that address complex business problems while maintaining a focus on quality, scalability, and usability.</h3>
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbshreyank"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbshreyank&label=Visitors&labelColor=%2337d67a&countColor=%23ff8a65&labelStyle=upper" /></a>
+<!--<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbshreyank"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbshreyank&label=Visitors&labelColor=%2337d67a&countColor=%23ff8a65&labelStyle=upper" /></a>-->
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
