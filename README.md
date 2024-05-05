@@ -29,7 +29,7 @@
     <!-- Language -->
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,sass,react,vite,netlify,postman,git,github,vscode,&perline=8" />
 </div>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bshreyank&show_icons=true&theme=radical&locale=en&layout=compact" alt="bshreyank" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bshreyank&show_icons=true&theme=radical&locale=en" alt="bshreyank" /></p>
