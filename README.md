@@ -6,13 +6,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Frontend Development and Java Full Stack**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Front-End Web Development**
+- 🌱 I’m currently learning **Amazon Web Services (AWS)**
 
-- 🤝 I’m looking for help with **Machine Learning Implementation in Web Development**
+- 🤝 I’m looking for help with **How Do I Integrate AWS lambda code with Flutter**
 
-- 📫 How to reach me **bshreyank@gmail.com**
+- 📫 How to reach me **codeshreyank@gmail.com**
 
 - My Portfolio Website **https://shreyank-portfolio.netlify.app/**
 
