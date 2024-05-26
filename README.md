@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div>
     <!-- Language -->
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,vite,netlify,postman,vscode,anaconda,aws,java,cloudflare,dart,eclipse,express,figma,firebase,flask,flutter,git,github,heroku,laravel,linux,materialui,mongodb,mysql,nodejs,npm,ps,php,pycharm,py,sqlite,ubuntu,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,atom,aws,babel,bash,blender,bootstrap,bun,c,cpp,cloudflare,codepen,css,dart,debian,dynamodb,eclipse,express,figma,firebase,flutter,git,github,heroku,html,java,js,jquery,kotlin,linux,materialui,mongodb,mysql,netlify,nextjs,nodejs,npm,pycharm,py,react,replit,sqlite,tailwind,ts,ubuntu,vercel,vite,vscode,&perline=15" />
 </div>
 
 <br/>
