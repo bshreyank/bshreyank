@@ -5,13 +5,11 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **Amazon Web Services (AWS)**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 🤝 I’m looking for help with **How Do I Integrate AWS lambda code with Flutter**
-
-- 📫 How to reach me **codeshreyank@gmail.com**
+- 📫 How to reach me **bshreyank@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shreyank-bansod/](https://www.linkedin.com/in/shreyank-bansod/)
 
